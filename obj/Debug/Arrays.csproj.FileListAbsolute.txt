@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\Arrays\bin\Debug\Arrays.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\Arrays\obj\Debug\Arrays.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\Arrays\obj\Debug\Arrays.pdb
